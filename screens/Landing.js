@@ -88,15 +88,7 @@ export default function Landing({ navigation }) {
         })
       }
     )
-    // (async () => {
-    //   try {
-
-    //   } catch (error) {
-    //     Alert.alert(
-    //       'Could not create user table, Please close and open the application again',
-    //     );
-    //   }
-    // })();
+    
   }, []);
 
   return (
